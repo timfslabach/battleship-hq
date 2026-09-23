@@ -1,6 +1,6 @@
 {
   "name": "Battleship HQ",
-  "short_name": "Battleship",
+  "short_name": "Battleship HQ",
   "description": "Battleship, except every shot costs you a run.",
   "start_url": "./",
   "display": "browser",
