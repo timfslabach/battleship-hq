@@ -1,0 +1,13 @@
+{
+  "name": "Battleship HQ",
+  "short_name": "Battleship",
+  "description": "Battleship, except every shot costs you a run.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#0e2436",
+  "theme_color": "#0e2436",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
